@@ -115,3 +115,198 @@ NGROK_AUTHTOKEN=3FRMxgVGB0CguFPPVbCXKMIQeTx_3WcndHgbZ13vchUjnGjGx
    python app.py
    ```
    Open `http://127.0.0.1:5000` in your web browser.
+
+   ##Sample Output📄
+   # Sample Output
+
+## AI Career Assistant Report
+
+### Resume Analysis Dashboard
+
+| Metric          | Result    |
+| --------------- | --------- |
+| ATS Score       | 92/100    |
+| Skills Detected | 8         |
+| Job Matches     | 15        |
+| Resume Strength | Excellent |
+
+---
+
+## Resume Summary
+
+The uploaded resume belongs to a candidate pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning with internship experience in AI and Web Development. The profile demonstrates strong programming fundamentals, practical project exposure, and career readiness for software and AI-related roles.
+
+---
+
+## Skills Detected
+
+### Programming Languages
+
+* Python
+* Java
+* C
+
+### Web Technologies
+
+* HTML
+* CSS
+
+### AI & Data Skills
+
+* Artificial Intelligence
+* Machine Learning
+
+### Tools
+
+* Git
+
+---
+
+## ATS Analysis
+
+### ATS Score: 92/100
+
+### Strengths
+
+✅ Well-structured resume format
+
+✅ Relevant technical skills included
+
+✅ Internship experience present
+
+✅ Education details clearly mentioned
+
+✅ Industry-relevant keywords detected
+
+### Areas for Improvement
+
+⚠ Add LinkedIn profile URL
+
+⚠ Add GitHub portfolio links
+
+⚠ Include certifications section
+
+⚠ Add measurable project achievements
+
+⚠ Include professional summary section
+
+---
+
+## AI Insights
+
+### Candidate Strengths
+
+* Strong Python programming skills
+* Exposure to Artificial Intelligence concepts
+* Practical internship experience
+* Good technical foundation
+* Suitable for entry-level software roles
+
+### Suggested Improvements
+
+* Learn SQL and Database Management
+* Build Machine Learning projects
+* Learn FastAPI and Flask
+* Practice Data Structures & Algorithms
+* Gain Cloud Computing experience
+
+---
+
+## Missing High-Demand Skills
+
+To improve employability and ATS performance:
+
+* SQL
+* FastAPI
+* Flask
+* Pandas
+* NumPy
+* Scikit-Learn
+* TensorFlow
+* Docker
+* AWS
+* REST APIs
+
+---
+
+## Recommended Jobs
+
+| Job Title                 | Match Score |
+| ------------------------- | ----------- |
+| AI/ML Intern              | 96%         |
+| Python Developer          | 94%         |
+| Backend Developer         | 90%         |
+| Software Engineer Intern  | 88%         |
+| Data Analyst              | 86%         |
+| Machine Learning Engineer | 84%         |
+| Full Stack Developer      | 82%         |
+| Data Science Intern       | 80%         |
+
+---
+
+## Career Roadmap
+
+### Beginner Level
+
+* Python Advanced Concepts
+* SQL Fundamentals
+* Git & GitHub
+
+### Intermediate Level
+
+* FastAPI
+* Flask
+* REST API Development
+* Database Integration
+
+### Advanced Level
+
+* Machine Learning Projects
+* Deep Learning
+* Cloud Deployment
+* Docker & Kubernetes
+
+---
+
+## Recommended Companies
+
+### Product-Based Companies
+
+* Google
+* Microsoft
+* Amazon
+* Adobe
+* Salesforce
+
+### Service-Based Companies
+
+* Infosys
+* TCS
+* Cognizant
+* Wipro
+* Accenture
+
+---
+
+## Future Enhancements
+
+* AI Resume Ranking System
+* Resume Builder
+* Interview Question Generator
+* LinkedIn Profile Analysis
+* Skill Gap Detection
+* Multi-Resume Comparison
+* Job Alert Notifications
+* Salary Prediction System
+* AI Career Chatbot
+* Cloud Deployment
+
+---
+
+##Author
+
+Susmija Punnam — Designed and developed an AI-driven Resume Career Assistant that analyzes resumes, identifies key skills, evaluates ATS compatibility, and recommends relevant career opportunities using Python, AI/NLP techniques, and job-matching algorithms.
+
+⭐ If this project helps you explore AI-powered career guidance and resume analysis, consider giving the repository a star on GitHub.
+
+
