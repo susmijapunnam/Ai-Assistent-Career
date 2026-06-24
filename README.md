@@ -78,8 +78,8 @@ Interactive Dashboard
 * `reportlab` (PDF generation)
 
 ### APIs Used
-* **Gemini AI:** For profile insights and skill gap analysis.
-* **RapidAPI Job Search API:** For fetching live, real-time job listings.
+RAPIDAPI_KEY=c9d7d5dee6msh20246da560c866p1d30c8jsn9f1aff6c6933
+NGROK_AUTHTOKEN=3FRMxgVGB0CguFPPVbCXKMIQeTx_3WcndHgbZ13vchUjnGjGx
 
 ---
 
